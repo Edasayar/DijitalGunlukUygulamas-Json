@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WhJMyyNCiBrV+ZWX2POz9r5yWJ2RNu+Dp7GWu0c4Fm+xHvFuDZ7XKwrFZPfBhiAg+q8NYARUzywAc4K8YSHnoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eseda\\OneDrive\\Masaüstü\\DijitalGunlukUygulaması\\RoniHocaProje\\RoniHocaProje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eseda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\eseda\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\eseda\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\eseda\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\eseda\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\eseda\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
